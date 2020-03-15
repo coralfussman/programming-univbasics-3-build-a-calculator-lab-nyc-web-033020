@@ -5,12 +5,13 @@ def addition(num1, num2)
 
 
 def subtraction(num1, num2)
-  subtraction = num1 - num2
-  subtraction
+  sum = num1 - num2
+  sum
 end
 
 def division(num1, num2)
-
+  quotient = num1 / num2
+  quotient
 end
 
 def multiplication(num1, num2)
