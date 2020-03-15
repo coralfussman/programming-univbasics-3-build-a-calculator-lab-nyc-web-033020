@@ -25,6 +25,6 @@ remainder
 end
 
 def square_root(num)
-exponent = num ** num
-exponent
+num = n ** n
+num
 end
